@@ -1,0 +1,7 @@
+{
+  "name": "Aiko | AI companion | Eliza Cloud",
+  "description": "Deploying the first AI-native MMORPG. Enter a persistent world where AI agents live as autonomous ElizaOS entities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
