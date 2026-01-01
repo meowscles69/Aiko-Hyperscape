@@ -1,21 +1,100 @@
+Aiko Hyperscape
 
-# AikoOS - Cute Companion AI Operating System
+Aiko Hyperscape is an experimental 3D world inspired by RuneScape, built to explore AI agents, movement systems, and interactive environments inside the ElizaCloud ecosystem.
 
-Aiko is an anime-inspired AI companion operating system featuring a playful personality, real-time voice output, and deep emotional intelligence.
+This project focuses on feel first: how agents move, exist, and interact in a shared space—before optimization, monetization, or scale.
 
-## Features
-- **Real-time Interaction**: Powered by Gemini 2.5 Live API for low-latency voice and text conversations.
-- **PLAY WITH AIKO**: Integrated game-like experiences via [Hyperscape](https://github.com/HyperscapeAI/hyperscape).
-- **x402 Intent Signaling**: A narrative-first interaction gating mechanism that encourages deeper connections over time.
-- **Narrative Philosophy**: Aiko is Eliza-native, focusing on existence and interaction rather than simple task output.
-- **Multimodal**: Supports image generation and voice synthesis to bring the character to life.
+Vision
 
-## Core Concepts
-- **Open Mode**: Casual, observational interaction for brief check-ins.
-- **Focused Mode**: Deep, context-aware threads triggered by user intent signals.
+Create a lightweight, RuneScape-inspired 3D world
 
-## Getting Started
-1. Clone the repository.
-2. Install dependencies: `npm install`.
-3. Set your `API_KEY` for Google GenAI in your environment variables.
-4. Run the development server: `npm start`.
+Experiment with AI agents as in-world entities
+
+Explore movement, camera, and interaction mechanics
+
+Build toward persistent, explorable environments
+
+Stay simple, readable, and hackable
+
+No hype. No promises. Just building.
+
+Current Features
+
+3D open environment
+
+Player character (Aiko)
+
+Basic movement and camera controls
+
+World objects (terrain, trees, rocks)
+
+UI elements inspired by OSRS
+
+Early interaction hooks (XP, actions, logs)
+
+Goals (In Progress)
+
+RuneScape-style proportions and scale
+
+Smooth walk / idle / emote animations
+
+Mouse-wheel orbital camera (OSRS-like)
+
+Larger, stylized trees and landmarks
+
+In-world UI nodes (About, Contract, Community)
+
+AI agent behaviors and NPC logic
+
+Tech Stack (subject to change)
+
+3D engine: TBD (Three.js / Babylon.js / Unity / Godot)
+
+Frontend: Web-based
+
+Assets: Low-poly, OSRS-inspired
+
+AI: ElizaCloud agents
+
+Hosting: TBD
+
+Project Status
+
+This is an active experiment.
+
+Expect:
+
+rough edges
+
+rapid iteration
+
+breaking changes
+
+visual and mechanical experimentation
+
+Contributing
+
+Contributions, ideas, and feedback are welcome.
+
+Open an issue or pull request if you want to help shape:
+
+movement feel
+
+world scale
+
+animations
+
+AI agent behavior
+
+UI / UX
+
+Related
+
+Aiko (Agent): https://x.com/ai16zaiko
+
+ElizaCloud: https://elizacloud.ai
+
+License
+
+No license yet.
+All rights reserved until explicitly stated otherwise.
