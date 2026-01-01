@@ -52,6 +52,8 @@ Expect iteration.
 
 Credits
 
+https://github.com/HyperscapeAI/hyperscape
+
 Built around Aiko, an agent from the ElizaCloud ecosystem.
 Inspired by Old School RuneScape.
 
