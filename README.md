@@ -4,24 +4,10 @@
 
 **Aiko Hyperscape** is an experimental 3D world inspired by **Old School RuneScape**, built around **Aiko** — an AI companion living inside a persistent, low-poly environment.
 
-The project prioritizes **feel first**: movement, scale, camera behavior, and atmosphere before complexity or systems.
+This project focuses on **feel first**: movement, scale, camera behavior, and atmosphere before complexity.
 
-This is not a game yet.  
+This is not a finished game.  
 It’s a world prototype.
-
----
-
-## What This Is
-
-Aiko Hyperscape explores how AI agents can exist inside spatial environments rather than chat boxes.
-
-The focus is on:
-- How it *feels* to move through a world  
-- How scale affects perception  
-- How camera behavior changes immersion  
-- How an agent’s presence alters a space  
-
-Everything is designed to be calm, readable, and intentional.
 
 ---
 
@@ -41,25 +27,8 @@ Everything is designed to be calm, readable, and intentional.
 ## Controls
 
 - **W / A / S / D** — Move  
-- **Mouse Wheel Scroll** — Zoom camera  
+- **Mouse Wheel Scroll** — Zoom  
 - **Mouse Wheel Click + Drag** — Orbit camera  
-
-Camera always orbits the character.  
-No free-fly camera.  
-Movement is slow and deliberate.
-
----
-
-## Philosophy
-
-This project is intentionally minimal.
-
-There are:
-- No combat systems  
-- No monetization  
-- No hype mechanics  
-
-The goal is to establish a **baseline feel** for agent-driven worlds before layering complexity.
 
 ---
 
@@ -70,9 +39,9 @@ git clone https://github.com/meowscles69/Aiko-Hyperscape.git
 cd Aiko-Hyperscape
 npm install
 npm run dev
+```
 
 Open in your browser:
-
 http://localhost:3000
 
 Status
@@ -90,13 +59,4 @@ License
 
 MIT
 
-
----
-
-If you want:
-- a **shorter README**
-- a **more technical README**
-- or a **devlog-style README**
-
-just say which direction.
 
